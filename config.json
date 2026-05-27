@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpervtringify",
+        "uuid": 24344460,
+        "checksum": "1es3of"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
